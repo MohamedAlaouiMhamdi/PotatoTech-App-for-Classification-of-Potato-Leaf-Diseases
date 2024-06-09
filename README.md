@@ -1,5 +1,3 @@
-Sure! Here's an improved version of your README with new icons and additional content:
-
 # PotatoTech: Android App for Potato Leaf Disease Classification
 
 <p align="center">
