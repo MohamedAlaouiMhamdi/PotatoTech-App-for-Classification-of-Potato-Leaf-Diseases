@@ -34,9 +34,8 @@ The dataset used is "[Plant Village - Potato Disease Classification](https://www
 ## 🚀 Getting Started
 To get started with PotatoTech, follow these steps:
 1. Clone the repository:
-   ```sh
-[   git clone https://github.com/maghwa/PotatoTech-an-Android-App-for-Classification-of-Potato-Leaf-Diseases.git
-](https://github.com/MohamedAlaouiMhamdi/PotatoTech-App-for-Classification-of-Potato-Leaf-Diseases)   ```
+      ```sh
+       git clone (https://github.com/MohamedAlaouiMhamdi/PotatoTech-App-for-Classification-of-Potato-Leaf-Diseases)   ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
